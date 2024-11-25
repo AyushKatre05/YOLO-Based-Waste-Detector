@@ -1,5 +1,4 @@
-train: images/train
-val: images/val
-
+train: C:/Users/ayush/OneDrive/Desktop/detection/images/train
+val: C:/Users/ayush/OneDrive/Desktop/detection/images
 names:
  0: WasteProducts
